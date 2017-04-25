@@ -1,18 +1,18 @@
 ReadLVM: Reads data from LVM files
 
 Scott Barnes | Smart Systems Lab | The George Washington University
-
+____________________________________________________________________
 
 Variables:
 
 filepath: Path to file(s)
-
 filetype: Data type of file (.LVM, .txt, etc...)
 
 prefix: Base name of files
 
 index: Numerical values appended to file prefix [Index1, Index2]
 
+____________________________________________________________________
 
 Formatting:
 
@@ -22,6 +22,8 @@ PrefixIndex.Filetype
 
 Example1.lvm -> Example10.lvm
 
+
+____________________________________________________________________
 
 Data Types:
 
